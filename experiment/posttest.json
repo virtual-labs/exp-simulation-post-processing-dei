@@ -1,0 +1,44 @@
+[{
+	"question": "1. Supports can be soluble. True/False",
+	"answers": {
+		"a": "True",
+		"b": "False"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "2. Removing insoluble supports is usually done by",
+	"answers": {
+		"a": "Snapping them with your fingers",
+		"b": "Cutting them with a pair of pliers",
+		"c": "Dissolving in water",
+		"d": "Both (a) and (b)"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "3. Curing involves which light?",
+	"answers": {
+		"a": "UV light",
+		"b": "Infrared light",
+		"c": "White light",
+		"d": "None of these"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "4. Curing enhance",
+	"answers": {
+		"a": "Physical Quality",
+		"b": "Mechanical Properties",
+		"c": "Chemical properties",
+		"d": "Both (a) and (b)"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "5. Heat treatment improves",
+	"answers": {
+		"a": "Hardness",
+		"b": "Wear opposition",
+		"c": "Strength",
+		"d": "All of these"
+	},
+	"correctAnswer": "d"
+}]

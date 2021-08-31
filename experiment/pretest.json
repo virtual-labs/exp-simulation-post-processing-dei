@@ -1,0 +1,46 @@
+[{
+	"question": "1. Post-processing treatments for 3D printed parts include.",
+	"answers": {
+		"a": "Support Removal",
+		"b": "UV Curing",
+		"c": "Heat Treatment",
+		"d": "All of these"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "2. Which of the following is the process in the 3d printing cycle?",
+	"answers": {
+		"a": "Post-processing",
+		"b": "Transfer to machine",
+		"c": "Pre-processing",
+		"d": "All of the above"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "3. _________ has been added during curing using UV light to their printing interaction",
+	"answers": {
+		"a": "Aluminium",
+		"b": "Magnesium",
+		"c": "Carbon",
+		"d": "None of the above"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "4. Heat treatment removes which of the following from the product?",
+	"answers": {
+		"a": "Internal Stresses",
+		"b": "Support",
+		"c": "Extra Material",
+		"d": "None of these"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "5. The support structure can be dissolved in",
+	"answers": {
+		"a": "Water",
+		"b": "Chemical Solution",
+		"c": "Both (a) and (b)",
+		"d": "None of these"
+	},
+	"correctAnswer": "c"
+}]

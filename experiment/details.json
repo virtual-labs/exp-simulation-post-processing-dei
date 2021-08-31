@@ -1,0 +1,44 @@
+{
+   "details": [
+       {
+			"Experiment": "Simulation of Post processing of 3D printed parts.",     
+			"Lab": "3D printing lab",               
+			"Discipline": "Mechanical Engineering",				 
+			"Technology": "Additive Manufacturing"         
+       }
+   ],
+
+   "developer": [
+       {       
+      "Developer": "Prof. Rahul Swarup Sharma",         
+      "Institute": "Dayalbagh Educatonal Institute",         
+      "InstituteAcronym": "DEI"   
+       },
+	   
+       {       
+      "Developer": "Mr. Ajay Kant Upadhyay",         
+      "Institute": "Dayalbagh Educatonal Institute",         
+      "InstituteAcronym": "DEI"   
+       }
+   ],
+
+   "contributer": [
+       {       
+      "Contributer":  "Adit Mishra",              
+      "Institute": "Dayalbagh Educatonal Institute",               
+      "InstituteAcronym": "DEI"         
+       },
+
+       {       
+		"Contributer": "Mayank Jain",             
+        "Institute": "Dayalbagh Educatonal Institute",               
+		"InstituteAcronym": "DEI"         
+       },
+	   
+       {       
+		"Contributer": "Akash Gupta",             
+        "Institute": "Dayalbagh Educatonal Institute",               
+		"InstituteAcronym": "DEI"         
+       },
+      ]
+}
