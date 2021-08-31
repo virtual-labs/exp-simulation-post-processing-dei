@@ -9,8 +9,8 @@
 	"question": "2. Removing insoluble supports is usually done by",
 	"answers": {
 		"a": "Snapping them with your fingers",
-		"b": "Cutting them with a pair of pliers"
-		"c": "Dissolving in water"
+		"b": "Cutting them with a pair of pliers",
+		"c": "Dissolving in water",
 		"d": "Both (a) and (b)"
 	},
 	"correctAnswer": "d"
@@ -27,8 +27,8 @@
 	"question": "4. Curing enhance",
 	"answers": {
 		"a": "Physical Quality",
-		"b": "Mechanical Properties"
-		"c": "Chemical properties"
+		"b": "Mechanical Properties",
+		"c": "Chemical properties",
 		"d": "Both (a) and (b)"
 	},
 	"correctAnswer": "d"

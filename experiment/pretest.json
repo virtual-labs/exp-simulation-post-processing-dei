@@ -2,8 +2,8 @@
 	"question": "1. Post-processing treatments for 3D printed parts include.",
 	"answers": {
 		"a": "Support Removal",
-		"b": "UV Curing"
-		"c": "Heat Treatment"
+		"b": "UV Curing",
+		"c": "Heat Treatment",
 		"d": "All of these"
 	},
 	"correctAnswer": "d"
@@ -11,8 +11,8 @@
 	"question": "2. Which of the following is the process in the 3d printing cycle?",
 	"answers": {
 		"a": "Post-processing",
-		"b": "Transfer to machine"
-		"c": "Pre-processing"
+		"b": "Transfer to machine",
+		"c": "Pre-processing",
 		"d": "All of the above"
 	},
 	"correctAnswer": "d"
@@ -29,8 +29,8 @@
 	"question": "4. Heat treatment removes which of the following from the product?",
 	"answers": {
 		"a": "Internal Stresses",
-		"b": "Support"
-		"c": "Extra Material"
+		"b": "Support",
+		"c": "Extra Material",
 		"d": "None of these"
 	},
 	"correctAnswer": "a"
